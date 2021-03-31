@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing.
 - 🌱 I’m currently learning web designing.
 - 💞️ I’m looking to collaborate on web developement
-- 📫 How to reach me ...
+- 📫 How to reach me dev.web.manish@gmail.com
 
 <!---
 web-dev-manish/web-dev-manish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
